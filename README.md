@@ -1,16 +1,15 @@
-## Hi there 👋
+# Carolina Brandão Baeta
 
-<!--
-**carolinabrandao/carolinabrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year engineering student at Télécom Paris (Data Science & AI).  
+I like turning complex problems into clear decisions, with a practical and reliable way of working.
 
-Here are some ideas to get you started:
+- **Focus:**  Data Science, Machine Learning, Deep Learning,
+- **Skills:** Python, SQL, scikit-learn, PyTorch, Power BI, Git
+- **Currently:** PRIM research project on diffusion-based hypergraph generation (PyTorch)
+- **Availability:** 6-month end-of-study internship from March 2026 (Paris)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Get in touch
+- Email: carolinabrandaofb@gmail.com
+- LinkedIn: https://www.linkedin.com/in/carolinabfbaeta
+- Location: Paris, France

@@ -10,6 +10,6 @@ in **3A**, I’m focusing on **AI** with a research project on diffusion-based h
 Before that, I was in a **B.Sc. in Computer Science** program at **UFMG** and spent time in **front-end** at **iJunior Soluções Digitais**, so you’ll find here a mix of my different chapters!
 
 **Focus:** Data Science · Machine Learning · Deep Learning  
-**Skills:** Python · SQL · scikit-learn · PyTorch · Power BI · Git
+**Skills:** Python · SQL · scikit-learn · PyTorch · Git
 
 *Availability: 6-month end-of-study internship from **March 2026** (Paris).*

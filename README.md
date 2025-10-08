@@ -1,4 +1,4 @@
-# Carolina Brandão Baeta
+# Carolina Baeta
 
 Final-year engineering student at Télécom Paris (Data Science & AI).  
 I like turning complex problems into clear decisions, with a practical and reliable way of working.

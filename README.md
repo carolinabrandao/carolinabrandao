@@ -5,7 +5,7 @@ I like turning complex problems into clear decisions, with a practical and relia
 
 - **Focus:**  Data Science, Machine Learning, Deep Learning,
 - **Skills:** Python, SQL, scikit-learn, PyTorch, Power BI, Git
-- **Currently:** PRIM research project on diffusion-based hypergraph generation (PyTorch)
+- **Currently:** Final-Year research project on diffusion-based hypergraph generation (PyTorch)
 - **Availability:** 6-month end-of-study internship from March 2026 (Paris)
 
 

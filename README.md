@@ -13,3 +13,5 @@ Before that, I was in a **B.Sc. in Computer Science** program at **UFMG** and sp
 **Skills:** Python · SQL · scikit-learn · PyTorch · Git
 
 *Availability: 6-month end-of-study internship from **March 2026** (Paris).*
+
+https://www.linkedin.com/in/carolinabfbaeta/
